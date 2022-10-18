@@ -1,0 +1,16 @@
+D:\DevIO_CURSO\Web-Servie---.NET-Core\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+D:\DevIO_CURSO\Web-Servie---.NET-Core\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\DevIO_CURSO\Web-Servie---.NET-Core\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\DevIO_CURSO\Web-Servie---.NET-Core\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Bussines.dll
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Bussines.pdb
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb

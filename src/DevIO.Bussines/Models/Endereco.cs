@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DevIO.Bussines.Models
 {
-    class Endereco: Entity
+    public class Endereco: Entity
     {                     
             /* o EF entende que como o atributo fornecedor tem o ID no final, ele considera como FK */
             public Guid FornecedorId { get; set; }           

@@ -4438,6 +4438,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "DevIO.Bussines/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/DevIO.Bussines.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevIO.Bussines.dll": {}
+        }
+      },
+      "DevIO.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "DevIO.Bussines": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.2.0",
+          "Microsoft.EntityFrameworkCore.Relational": "2.2.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/DevIO.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevIO.Data.dll": {}
+        }
       }
     }
   },
@@ -12075,10 +12101,21 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "DevIO.Bussines/1.0.0": {
+      "type": "project",
+      "path": "../DevIO.Bussines/DevIO.Bussines.csproj",
+      "msbuildProject": "../DevIO.Bussines/DevIO.Bussines.csproj"
+    },
+    "DevIO.Data/1.0.0": {
+      "type": "project",
+      "path": "../DevIO.Data/DevIO.Data.csproj",
+      "msbuildProject": "../DevIO.Data/DevIO.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "DevIO.Data >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -12092,11 +12129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevIO_CURSO\\MinhaAppMvccompleta\\src\\Dev.IO.App\\DevIO.App.csproj",
+      "projectUniqueName": "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\Dev.IO.App\\DevIO.App.csproj",
       "projectName": "DevIO.App",
-      "projectPath": "D:\\DevIO_CURSO\\MinhaAppMvccompleta\\src\\Dev.IO.App\\DevIO.App.csproj",
+      "projectPath": "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\Dev.IO.App\\DevIO.App.csproj",
       "packagesPath": "C:\\Users\\andrey.barbosa\\.nuget\\packages\\",
-      "outputPath": "D:\\DevIO_CURSO\\MinhaAppMvccompleta\\src\\Dev.IO.App\\obj\\",
+      "outputPath": "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\Dev.IO.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -12119,7 +12156,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\DevIO.Data\\DevIO.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

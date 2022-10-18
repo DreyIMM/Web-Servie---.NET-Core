@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jg0EvKt2CBw9Evncxq2tCAJ2OOFMixUVBdw1kCWaohnAmc/6xyn8G6UjZNoWdWFHA7UP/THz47GE2H6MlNDSLg==",
+  "dgSpecHash": "g/jz83ATG1waXZDM3/y7kzNLsYFQI+UQHNxhSJ4uLokSPHz3HIETH88h3FIdX+Sbsep7lfl/oe6LmKlD0S/+HQ==",
   "success": true,
-  "projectFilePath": "D:\\DevIO_CURSO\\MinhaAppMvccompleta\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
+  "projectFilePath": "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

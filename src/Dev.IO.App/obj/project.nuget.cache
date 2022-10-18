@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OotGZl8UA48PfjDt8EqlZJsXVXSPJ882W/d3NBKrsWbZr/SJspPTk/gNVexlvvAp6PGcyWsPBDYPY/suq2Toqw==",
+  "dgSpecHash": "Syj7b+DNK+BzSCY/m4JaElpxYnNwZAeehNKtl/yZ2m8Wd3UJu5w4aH1uDhKUR8VK1iCW7ocAmzPsyAzxPX4UIA==",
   "success": true,
-  "projectFilePath": "D:\\DevIO_CURSO\\MinhaAppMvccompleta\\src\\Dev.IO.App\\DevIO.App.csproj",
+  "projectFilePath": "D:\\DevIO_CURSO\\WebServiceCamadas\\src\\Dev.IO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\andrey.barbosa\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
