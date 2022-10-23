@@ -55,12 +55,18 @@ namespace Dev.IO.App
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
+            //Configurando o AutoMapper
+            services.AddAutoMapper(typeof(Startup));
+
+
             //Adicionar a injeção de dependencia
             services.AddScoped<MeuDbContext>();
 
             services.AddScoped<IProdutoRepository, ProdutoRepository>();
             services.AddScoped<IFornecedorRepository, FornecedorRepository>();
             services.AddScoped<IEnderecoRepository, EnderecoRepository>();
+
+           
 
         }
 
