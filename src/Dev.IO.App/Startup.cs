@@ -1,4 +1,5 @@
-﻿using Dev.IO.App.Data;
+﻿using AutoMapper;
+using Dev.IO.App.Data;
 using DevIO.Bussines.Interfaces;
 using DevIO.Data.Context;
 using DevIO.Data.Repository;

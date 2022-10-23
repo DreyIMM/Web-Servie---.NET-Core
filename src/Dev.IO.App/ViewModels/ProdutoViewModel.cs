@@ -15,6 +15,11 @@ namespace DevIO.App.ViewModels
         public Guid Id { get; set; }
 
 
+        [Required(ErrorMessage = "O campo {0} é obrigatorio")]
+        [DisplayName("Fornecedor")]
+        public Guid ForncedorId { get; set; }
+
+
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [StringLength(200, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
         public string Nome { get; set; }
@@ -23,6 +28,7 @@ namespace DevIO.App.ViewModels
         [StringLength(1000, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
         [DisplayName("Decrição")]
         public string Descricao { get; set; }
+
 
         public IFormFile ImagemUpload { get; set; }
 
@@ -38,6 +44,8 @@ namespace DevIO.App.ViewModels
         public bool Ativo { get; set; }
         /* EF Relation */
         public FornecedorViewModel Fornecedor { get; set; }
+
+        public IEnumerable<FornecedorViewModel> Fornecedores { get; set; }
 
     }
 }
