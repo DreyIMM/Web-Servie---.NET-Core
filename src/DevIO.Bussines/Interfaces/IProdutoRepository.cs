@@ -10,6 +10,6 @@ namespace DevIO.Bussines.Interfaces
     {
         Task<IEnumerable<Produto>> ObterProdutosPorFornecedor(Guid fornecedorId);
         Task<IEnumerable<Produto>> ObterProdutosFornecedores();
-        Task<Produto> ObterProdutotFornecedor(Guid id);
+        Task<Produto> ObterProdutoFornecedor(Guid id);
     }
 }

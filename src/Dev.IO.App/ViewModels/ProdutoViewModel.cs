@@ -15,9 +15,9 @@ namespace DevIO.App.ViewModels
         public Guid Id { get; set; }
 
 
-        [Required(ErrorMessage = "O campo {0} é obrigatorio")]
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [DisplayName("Fornecedor")]
-        public Guid ForncedorId { get; set; }
+        public Guid FornecedorId { get; set; }
 
 
         [Required(ErrorMessage = "O campo {0} é obrigatório")]

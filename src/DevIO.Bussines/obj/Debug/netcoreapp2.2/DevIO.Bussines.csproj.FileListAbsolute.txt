@@ -9,7 +9,6 @@ D:\DevIO_CURSO\Web-Servie---.NET-Core\src\DevIO.Bussines\obj\Debug\netcoreapp2.2
 D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\bin\Debug\netcoreapp2.2\DevIO.Bussines.deps.json
 D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\bin\Debug\netcoreapp2.2\DevIO.Bussines.dll
 D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\bin\Debug\netcoreapp2.2\DevIO.Bussines.pdb
-D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.csproj.AssemblyReference.cache
 D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.csproj.CoreCompileInputs.cache
 D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.AssemblyInfoInputs.cache
 D:\DevIO_CURSO\WebServiceCamadas\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.AssemblyInfo.cs
