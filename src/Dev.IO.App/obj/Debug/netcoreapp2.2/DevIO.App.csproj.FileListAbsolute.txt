@@ -51,3 +51,5 @@ D:\DevIO_CURSO\WebServiceCamadas\src\Dev.IO.App\bin\Debug\netcoreapp2.2\DevIO.Da
 D:\DevIO_CURSO\WebServiceCamadas\src\Dev.IO.App\bin\Debug\netcoreapp2.2\DevIO.Bussines.pdb
 D:\DevIO_CURSO\WebServiceCamadas\src\Dev.IO.App\obj\Debug\netcoreapp2.2\DevIO.App.Views.pdb
 D:\DevIO_CURSO\WebServiceCamadas\src\Dev.IO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CopyComplete
+D:\DevIO_CURSO\WebServiceCamadas\src\Dev.IO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_DetalheEndereco.g.cshtml.cs
+D:\DevIO_CURSO\WebServiceCamadas\src\Dev.IO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\_ListaProdutos.g.cshtml.cs
