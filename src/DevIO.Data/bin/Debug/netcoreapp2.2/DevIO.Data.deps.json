@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "bc14493e337e2ec0e2fa56c21abc3c518ceaa98c"
+    "signature": "70943498653ea6a3a4d78737686773785538b770"
   },
   "compilationOptions": {},
   "targets": {
@@ -15,6 +15,17 @@
         },
         "runtime": {
           "DevIO.Data.dll": {}
+        }
+      },
+      "FluentValidation/11.4.0": {
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.4.0.0"
+          }
         }
       },
       "Microsoft.EntityFrameworkCore/2.2.0": {
@@ -503,7 +514,11 @@
           "System.Runtime": "4.1.0"
         }
       },
+      "System.Threading.Tasks.Extensions/4.5.2": {},
       "DevIO.Bussines/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.4.0"
+        },
         "runtime": {
           "DevIO.Bussines.dll": {}
         }
@@ -515,6 +530,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WZJyrNf4suiaI6avVG32W9kmBLC3+V5rDTcLeRJjeU4tDmTyDIOz1459DzCKppXs34YpZg9rCUzDY3M4XxG7Ug==",
+      "path": "fluentvalidation/11.4.0",
+      "hashPath": "fluentvalidation.11.4.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/2.2.0": {
       "type": "package",
@@ -886,6 +908,13 @@
       "sha512": "sha512-k1S4Gc6IGwtHGT8188RSeGaX86Qw/wnrgNLshJvsdNUOPP9etMmo8S07c+UlOAx4K/xLuN9ivA1bD0LVurtIxQ==",
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "hashPath": "system.threading.tasks.extensions.4.5.2.nupkg.sha512"
     },
     "DevIO.Bussines/1.0.0": {
       "type": "project",
